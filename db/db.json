@@ -1,0 +1,47 @@
+[
+    {
+        "title": "First Note",
+        "text": "Get money",
+        "id": "17343532-6ba5-474b-9d03-9eeb2e3b3189"
+    },
+    {
+        "title": "Go to the pool",
+        "text": "If this homework assignment is not solved by 3PM, this 3k laptop will be thrown into the pool",
+        "id": "ad9541fe-60e5-45c1-a197-c4176c09a509"
+    },
+    {
+        "title": "Finish homework",
+        "text": "Finish your homework so you don't have anxiety and can go drink scotch.",
+        "id": "1bd19948-b641-4db9-94e8-ad7fcc748e8a"
+    },
+    {
+        "title": "Take a nap",
+        "text": "Essential ",
+        "id": "03817c6c-9e63-4f50-9b6a-8c4100554c71"
+    },
+    {
+        "title": "Cook Dinner (Spaghetti)",
+        "text": "Why do I always make spaghetti? Question to contemplate",
+        "id": "e411889e-076b-44e5-a318-3c531ca86623"
+    },
+    {
+        "title": "Elden Ring",
+        "text": "Finish the game and upgrade all decent weapons/summons before the DLC.",
+        "id": "ee911b46-8fe5-4a1a-98a3-bc5a12e619bc"
+    },
+    {
+        "title": "Turn in project",
+        "text": "Ready for Heroku deployment",
+        "id": "3ddd8b83-ee91-42a7-9ccd-1e49c1fa7fa9"
+    },
+    {
+        "title": "Inevitably break code",
+        "text": "Wipe away tears and practice git checkout <commit-id> .",
+        "id": "13133386-6876-4d7c-8646-679fdc16dd4f"
+    },
+    {
+        "title": "Figure out heroku",
+        "text": "I still have a laptop thankfully - cannot figure out heroku",
+        "id": "bb23a216-8aa8-4e55-af5f-07aeead72926"
+    }
+]
