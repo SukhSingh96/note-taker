@@ -1,0 +1,38 @@
+[
+    {
+        "title": "First Note",
+        "text": "Hello there",
+        "id": "17343532-6ba5-474b-9d03-9eeb2e3b3189"
+    },
+    {
+        "title": "Go to the gym",
+        "text": "Finish this assignment afterwards",
+        "id": "ad9541fe-60e5-45c1-a197-c4176c09a509"
+    },
+    {
+        "title": "Finish homework",
+        "text": "Finish your homework.",
+        "id": "1bd19948-b641-4db9-94e8-ad7fcc748e8a"
+    },
+    {
+        "title": "Take out trash",
+        "text": "Must.",
+        "id": "03817c6c-9e63-4f50-9b6a-8c4100554c71"
+    },
+    {
+        "title": "Cook Dinner",
+        "text": "Chicken Quesadillas!",
+        "id": "e411889e-076b-44e5-a318-3c531ca86623"
+    },
+    {
+        "title": "Play some Street Fighter",
+        "text": "Practicing some combos.",
+        "id": "ee911b46-8fe5-4a1a-98a3-bc5a12e619bc"
+    },
+    {
+        "title": "Turn in project",
+        "text": "My Heroku never works.",
+        "id": "3ddd8b83-ee91-42a7-9ccd-1e49c1fa7fa9"
+    },
+    
+]
